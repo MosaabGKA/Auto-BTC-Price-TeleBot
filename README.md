@@ -4,7 +4,7 @@
 ## Usage
 You can use it normally like any python file
 ```bash
-python polygon.py
+python run.py
 ```
 and then it will make the app run in the background sending you everyday-update about BTC's price.
  
